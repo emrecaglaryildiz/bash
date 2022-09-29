@@ -29,3 +29,4 @@ done
 scp -r $yedekdosyalar kullaniciadi@makine-ip:/dosyagonderilecekyol
 
 echo "*-*-*-*-*-* İşlemler tamamlandı! *-*-*-*-*-*"
+
